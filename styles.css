@@ -38,7 +38,14 @@ a {
 }
 
 p {
-  font-size: 1.6rem;
+  font-size: 1.4rem;
+}
+
+.copy {
+  display: block;
+  font-size: 1.3rem;
+  align-items: center;
+  padding: 2rem;
 }
 
 .container {
@@ -162,7 +169,7 @@ header {
   text-align: center;
 }
 .sub-headline {
-  font-size: 8rem;
+  font-size: 6rem;
   font-family: var(--main-font);
   font-weight: 300;
   font-style: italic;
@@ -355,7 +362,7 @@ header {
 /*footer*/
 
 footer {
-  padding: 7.9rem;
+  padding: 2rem;
   background-color: #121212;
   color: #fff;
   text-align: center;
