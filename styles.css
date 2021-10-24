@@ -323,8 +323,8 @@ header {
 
 /*sec3*/
 .investment-strat {
-  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url(images/back2.jpg);
+  background: url(images/back2.jpg),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
   background-size: cover;
 }
 
@@ -348,8 +348,8 @@ header {
 
 /*sec5*/
 .blend {
-  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url(images/back2.jpg);
+  background: url(images/back2.jpg),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
   background-size: cover;
 }
 /*immg*/
